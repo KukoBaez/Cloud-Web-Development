@@ -1,0 +1,37 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(255, 230, 193);
+}
+main {
+    color: rgb(66, 0, 0);
+    text-align: left;
+}
+header {
+    color: rgb(255, 255, 255);
+    background-color: rgb(83, 0, 0);
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 8px;
+}
+.headings {
+    color:rgb(129, 34, 34);
+    font-size:x-large;
+    padding: 4px;
+}
+.facts-title {
+    font-weight: bold;
+}
+.link {
+    color: rgb(0, 34, 255);
+}
+#description {
+    padding: 3px;
+    margin: 3px;
+    text-align: justify;
+}
+.cat-image {
+   text-align: center;
+}
+.cat-image img {
+    border: solid;
+}
